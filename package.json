@@ -1,6 +1,6 @@
 {
   "name": "jointocreate",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "A simple package that allow to make private voice channel at discordjs",
   "main": "index.js",
   "scripts": {

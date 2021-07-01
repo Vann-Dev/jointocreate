@@ -12,8 +12,8 @@
 This is a sample code to use this package
 
 ```
-const { client } = require("discord.js");
-const client = new Client();
+const Discord = require("discord.js");
+const client = new Discord.Client();
 const { joinToCreate } = require('jointocreate')
 
 client.on("ready", ()=>console.log("READY"));
