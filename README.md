@@ -2,6 +2,9 @@
 
 > A simple package that allow to make private voice channel at discordjs
 
+## Support
+
+[Support server](https://discord.gg/hM8U8cHtwu) <a href = "https://discordapp.com/users/435497505883422721/"><img src = "https://imgur.com/RSEvkDl.png" height= 15px width = 15px> Discord </a>&nbsp;&nbsp;
 
 
 ## Code Samples
