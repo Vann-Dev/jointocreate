@@ -1,0 +1,16 @@
+{
+  "name": "jointocreate",
+  "version": "1.1.5",
+  "description": "A simple package that allow to make private voice channel at discordjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stevanvincent/joinToCreate"
+  },
+  "author": "Stevanvincent",
+  "license": "ISC",
+  "homepage": "https://github.com/Stevanvincent/joinToCreate#readme"
+}
