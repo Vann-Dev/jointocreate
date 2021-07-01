@@ -19,7 +19,7 @@ const { joinToCreate } = require('jointocreate')
 client.on("ready", ()=>console.log("READY"));
 
 //import the  joinToCreate package
-jointocreate(client, 'YOUR_CHANNEL_ID');
+joinToCreate(client, 'YOUR_CHANNEL_ID');
 
 client.login('YOUR_BOT_TOKEN')
 ```
